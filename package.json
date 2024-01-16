@@ -4,11 +4,11 @@
 	"version": "1.0.0",
 	"description": "Multiplex - Бесплатный кинотеатр",
 	"author": {
-		"name": "BetaMaster"
+		"name": "sky"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/betamaster2/multiplex.git"
+		"url": "https://github.com/geoline/multiplex.git"
 	},
 	"options": [],
 	"config": {
