@@ -14,7 +14,7 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "OTT-Player",
+		"name": "MSX-Player",
 		"legacy": true,
 		"description": "MSX - Бесплатный кинотеатр",
 		"backgroundColor": "#00C8DA",
