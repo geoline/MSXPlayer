@@ -1,4 +1,4 @@
-![OTT-Player](https://raw.githubusercontent.com/betamaster2/multiplex/master/img/720/icons/2010.png)
+![OTT-Player](https://github.com/geoline/MSXPlayer/blob/master/img/720/icons/2010.png)
 
 # MSXPlayer для Stalker Middleware
 
